@@ -23,11 +23,14 @@ Link: https://www.anaconda.com/products/individual
 - print ("hello world")
 - use "ctrl + enter" to execute cell
 
-![](images/execute-code.png)
+![](./images/execute-code-1.png)
 
 - use "shift + enter" to execute cell and create a new one
 - use "esc + m" to convert cell to markdown
 - execute calculations, assign and print variables
+
+![](./images/execute-code-2.png)
+
 
 
 
