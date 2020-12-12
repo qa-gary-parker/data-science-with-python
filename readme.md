@@ -43,7 +43,7 @@ Link: https://www.anaconda.com/products/individual
 
 ![](./images/execute-code-3.png)
 
-- list directories 
+- list directories
 
 ![](./images/execute-code-4.png)
 
