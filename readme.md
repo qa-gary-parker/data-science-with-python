@@ -18,7 +18,7 @@ Link: https://www.anaconda.com/products/individual
 - Browser will open: http://localhost:8888/tree
 - Select New > Python Notebook
 
-The Notebook for this project can be found [Here](Demo_Notebook.ipynb)
+The Notebook for this project can be found [Here](DemoNotebook.ipynb)
 
 ## :runner: Execute code in cell
 
