@@ -42,3 +42,8 @@ Link: https://www.anaconda.com/products/individual
 - create and write to files
 
 ![](./images/execute-code-3.png)
+
+- list directories
+
+![](./images/execute-code-3.png)
+
