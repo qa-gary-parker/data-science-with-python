@@ -18,6 +18,8 @@ Link: https://www.anaconda.com/products/individual
 - Browser will open: http://localhost:8888/tree
 - Select New > Python Notebook
 
+The Notebook for this project can be found [Here](Demo_Notebook.ipynb)
+
 ## :runner: Execute code in cell
 
 - use "CTRL + ENTER" to execute cell
@@ -28,22 +30,12 @@ Link: https://www.anaconda.com/products/individual
 - use "ESC + L" to add line numbers
 - use "!" to execute shell commands on your machine
 
-![](./images/execute-code-1.png)
-
 ## :sparkles: Magic functions
 
 - single line start with "%"
 - multi-line start with "%%"
-- use matplotlib to plot graphs
-
-![](./images/execute-code-2.png)
-
-- measure execution times of operations
-- create and write to files
-
-![](./images/execute-code-3.png)
-
-- list directories
-
-![](./images/execute-code-4.png)
+- use %matplotlib to plot graphs
+- use %time to measure execution times of operations
+- use %%writefile to create and write to files
+- use %ls to list directories
 
