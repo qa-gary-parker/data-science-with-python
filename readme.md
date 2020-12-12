@@ -1,41 +1,42 @@
 
 # Data Science with Python
 
-Pluralsight: https://app.pluralsight.com/library/courses/python-data-science
+These are notes I compiled after watching the following Pluralsight course: https://app.pluralsight.com/library/courses/python-data-science
+
+The Complete Notebook for this project can be found [Here](DemoNotebook.ipynb)
 
 ## :notebook: Install Anaconda
 
-Link: https://www.anaconda.com/products/individual
+Before we begin, install [Anaconda](https://www.anaconda.com/products/individual)
 
 ### What is Anaconda?
 
- Open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages.
+ An open-source distribution of the Python and R programming languages for scientific computing. 
+ 
+ It aims to simplify package management and deployment. The distribution includes data-science packages.
 
 ## :book: Setting up Jupyter Notebook
 
 - Open Anaconda Prompt
-- Run command: jupyter notebook
-- Browser will open: http://localhost:8888/tree
-- Select New > Python Notebook
+- Execute command `jupyter notebook`
+- The browser will open `http://localhost:8888/tree`
+- Select 'New' > 'Python Notebook'
 
-The Notebook for this project can be found [Here](DemoNotebook.ipynb)
 
-## :runner: Execute code in cell
+## :runner: Run code in cells
 
-- use "CTRL + ENTER" to execute cell
-- use "SHIFT + ENTER" to execute cell and create a new one
-- use "ESC + M" to convert cell to markdown
-- execute calculations, assign and print variables
-- create and execute functions
-- use "ESC + L" to add line numbers
-- use "!" to execute shell commands on your machine
+- `CTRL + ENTER` to execute cell
+- `SHIFT + ENTER` to execute cell and create a new one
+- `ESC + M` to convert cell to markdown
+- `ESC + L` to add line numbers
+- `!` to execute shell commands on your machine
 
 ## :sparkles: Magic functions
 
-- single line start with "%"
-- multi-line start with "%%"
-- use %matplotlib to plot graphs
-- use %time to measure execution times of operations
-- use %%writefile to create and write to files
-- use %ls to list directories
+- A single line starts with `%`
+- A multi-line starts with `%%`
+- `%matplotlib` to plot graphs
+- `%time` to measure execution times of operations
+- `%%writefile` to create and write to files
+- `%ls` to list directories
 
