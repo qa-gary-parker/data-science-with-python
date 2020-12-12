@@ -1,10 +1,10 @@
 
 # Data Science with Python
 
-- Documentation based on Pluralsight course [Data Science with Python](https://app.pluralsight.com/library/courses/python-data-science).
--   Read the complete [Notebook](DemoNotebook.ipynb) for this project.
+- Documentation based on Pluralsight course [Data Science with Python](https://app.pluralsight.com/library/courses/python-data-science)
+-   Read the complete [Notebook](DemoNotebook.ipynb) for this project
 
-## :Gear: Technology
+## :gear: Technology
 
 - Python
 - Anaconda
@@ -16,8 +16,8 @@
 
 ### What is Anaconda?
 
- - An open-source distribution of the Python and R programming languages for scientific computing. 
- - It aims to simplify package management and deployment. The distribution includes data-science packages.
+ - An open-source distribution of the Python and R programming languages for scientific computing 
+ - It aims to simplify package management and deployment. The distribution includes data-science packages
 
 ## :book: Setting up Jupyter Notebook
 
