@@ -1,9 +1,15 @@
 
 # Data Science with Python
 
-Documentation based on Pluralsight course [Data Science with Python](https://app.pluralsight.com/library/courses/python-data-science)
+Documentation based on Pluralsight course [Data Science with Python](https://app.pluralsight.com/library/courses/python-data-science).
 
-The [Notebook](DemoNotebook.ipynb) for this project
+Read the complete [Notebook](DemoNotebook.ipynb) for this project.
+
+## :wrench: Technology
+
+- Python
+- Anaconda
+- Jupyter Notebooks
 
 ## :notebook: Install Anaconda
 
