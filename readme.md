@@ -45,5 +45,5 @@ Link: https://www.anaconda.com/products/individual
 
 - list directories
 
-![](./images/execute-code-3.png)
+![](./images/execute-code-4.png)
 
