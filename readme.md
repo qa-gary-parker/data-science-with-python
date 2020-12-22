@@ -2,7 +2,7 @@
 # Data Science with Python
 
 - Documentation based on Pluralsight course [Data Science with Python](https://app.pluralsight.com/library/courses/python-data-science)
--   Read the complete [Notebook](DemoNotebook.ipynb) for this project
+-   Read the complete [Notebook](DemoNotebook.ipynb) for this project, which covers all of the information below
 
 ## :gear: Technology
 
@@ -43,4 +43,10 @@
 - `%time` to measure execution times of operations
 - `%%writefile` to create and write to files
 - `%ls` to list directories
-
+- `%%HTML` to embed HTML
+- `%%latex` to render latex documentation
+- `!pip install ipython-sql` to install external libraries
+- `load_ext sql` to load external libraries
+- `%sql sqlite://` to connect to local database
+- `%%sql` to execute SQL queries
+- `%lsmagic` to list all magic functions
