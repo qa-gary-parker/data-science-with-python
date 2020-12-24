@@ -1,4 +1,3 @@
-
 # Data Science with Python
 
 - Documentation based on Pluralsight course [Data Science with Python](https://app.pluralsight.com/library/courses/python-data-science)
